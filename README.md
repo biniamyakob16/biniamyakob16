@@ -9,38 +9,10 @@
 
 ## 🛠️ My Skill Set  
 <div align="center">
-
 <a href="https://www.linux.org/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />
 </a>
 
-<a href="https://github.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-icon.svg" alt="GitHub" height="40" />
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
-</a>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />
-</a>
-
-<a href="https://cloud.google.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40" />
-</a>
-
-<a href="https://github.com/features/actions" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-actions.svg" alt="CI/CD Pipelines (GitHub Actions)" height="40" />
-</a>
 
 </div>
 <br/>
