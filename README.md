@@ -8,9 +8,6 @@
 <br/>  
 
 ## 🛠️ My Skill Set  
-
-## 🛠️ My Skill Set  
-
 <div align="center">
 
 <a href="https://www.linux.org/" target="_blank">
