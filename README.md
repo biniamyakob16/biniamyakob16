@@ -11,8 +11,8 @@
 <div align="center">
 
 <!-- SYSTEMS -->
-<a href="https://https://www.linkedin.com/in/biniamyakob16/www.redhat.com/en/topics/system-administration" target="_blank">
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="System Administration" height="30" />
+<a href="https://www.redhat.com/en/topics/system-administration" target="_blank">
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="System Administration / DevOps" height="30" />
 </a>
 
 <a href="https://www.linux.org/" target="_blank">
