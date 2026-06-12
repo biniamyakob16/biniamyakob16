@@ -4,7 +4,7 @@
 
 
 <div align="left">
-  <span style="font-size:20px;">I'm Biniam Yakob, a DevOps Intern learning DevOps tools and technologies.</span>
+  <span style="font-size:40px;">I'm Biniam Yakob, a DevOps Intern learning DevOps tools and technologies.</span>
 </div>  
 
 <br/>  
