@@ -5,7 +5,6 @@
 <div align="left">
   <span style="font-size80px;">I'm Biniam Yakob, a DevOps Intern learning DevOps tools and technologies.</span>
 </div>  
-<div style="font-size: 84px;">This is a block of text</div>
 <br/>  
 
 ## 🛠️ My Skill Set  
