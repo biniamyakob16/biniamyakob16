@@ -21,9 +21,6 @@
 <a href="https://www.gnu.org/software/bash//" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />
 </a>
-<a href="https://www.jenkins.io/" target="_blank">
-  <img style="margin: 10px" src=""https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Bash" height="40" />
-</a>
 <a href="https://www.python.org/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
 </a>
