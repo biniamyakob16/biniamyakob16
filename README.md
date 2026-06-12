@@ -7,11 +7,8 @@
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
 ### DevOps  
+<table><tr><td valign="top" width="33%">
 <div align="center">  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
