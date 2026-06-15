@@ -5,7 +5,7 @@
 <h4 align="center">I'm Biniam Yakob, An Aspiring DevOps Engineer with great interest in Systems Automation</h4> 
 <br/>  
 
-- 🔭 I’m currently working on [Linux CLI Challenges](https://github.com/biniamyakob16/overthewire-bandit-linux-cli-labs),[Linux Distoros Installation,Configuration & Maintenance](https://github.com/biniamyakob16/linux-virtualbox-kvm-labs)
+- 🔭 I’m currently working on [Linux CLI Challenges](https://github.com/biniamyakob16/overthewire-bandit-linux-cli-labs), [Linux Virtual Box & KVM](https://github.com/biniamyakob16/linux-virtualbox-kvm-labs)
 
 ## 🛠️ My Skill Set  
 <div align="center">
