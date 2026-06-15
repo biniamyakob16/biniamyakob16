@@ -8,7 +8,7 @@ This senetence includes a **bold word**, an *italic word* and an `inline code` s
 ---
 
 # Exercise 3:Links
-Renders as: [Link text](https://example.com)
+Renders as: [My GitHub Profile](https://github.com/biniamyakob16/)
 ---
 
 # Exercise 4: Lists
