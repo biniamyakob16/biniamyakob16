@@ -2,10 +2,10 @@
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=550&size=21&pause=1000&color=0073BA&background=FF219C00&center=true&vCenter=true&width=435&height=66&lines=Hello+There!+I'm+Biniam+Yakob+%F0%9F%91%8B;DevOps+Engineer" alt="Typing SVG" /></a>
 
-<h4 align="center">I'm Biniam Yakob, An Aspiring DevOps Engineer with great interest in Site Reliability Engineering</h4> 
+<h4 align="center">I'm Biniam Yakob, An Aspiring DevOps Engineer with great interest in Systems Automation</h4> 
 <br/>  
 
-- 🔭 I’m currently working on [Linux CLI Challenges](https://github.com/biniamyakob16/overthewire-bandit-linux-cli-labs),[Linux CLI Challenges](https://github.com/biniamyakob16/linux-virtualbox-kvm-labs))
+- 🔭 I’m currently working on [Linux CLI Challenges](https://github.com/biniamyakob16/overthewire-bandit-linux-cli-labs),[Linux Distoros Installation,Configuration & Maintenance](https://github.com/biniamyakob16/linux-virtualbox-kvm-labs)
 
 ## 🛠️ My Skill Set  
 <div align="center">
