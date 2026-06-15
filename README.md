@@ -1,6 +1,6 @@
   
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=550&size=21&pause=1000&color=0073BA&background=FF219C00&center=true&vCenter=true&width=435&height=66&lines=Hello+There!+I'm+Biniam+Yakob+%F0%9F%91%8B; An +Aspiring+DevOps+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=550&size=21&pause=1000&color=133294&background=FF219C00&center=true&vCenter=true&width=435&height=66&lines=Hello+There!+I'm+Biniam+Yakob+%F0%9F%91%8B;An+Aspiring+DevOps+Engineer" alt="Typing SVG" /></a>
 
 I'm Biniam Yakob, An Aspiring DevOps Engineer with great interest in Systems Automation.
 
