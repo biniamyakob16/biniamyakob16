@@ -11,6 +11,7 @@ This senetence includes a **bold word**, an *italic word* and an `inline code` s
 [My GitHub Profile](https://github.com/biniamyakob16/)
 
 [This might be useful](https://www.perplexity.ai/)
+
 ---
 
 # Exercise 4: Lists
