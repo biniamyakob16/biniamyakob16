@@ -7,6 +7,7 @@
 This senetence includes a **bold word**, an *italic word* and an `inline code` snippet.
 ---
 
+
 # Exercise 3:Links
 [My GitHub Profile](https://github.com/biniamyakob16/)
 
