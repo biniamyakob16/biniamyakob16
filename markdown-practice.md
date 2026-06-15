@@ -53,7 +53,14 @@ while i <= 5:
 
 # Exercise 8: Blockquote
 > Challenge your self to learn.
+---
 
+# Bonus:
+**About Me**
+Hello, I'm *Biniam Yakob*.
+> An Aspiring DevOps Engineer
+`Currently Learning:`
+- [ ] Docker & Kubernetes
 
 
 
