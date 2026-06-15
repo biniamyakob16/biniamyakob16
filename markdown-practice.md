@@ -19,9 +19,9 @@ This senetence includes a **bold word**, an *italic word* and an `inline code` s
 - Ansible
 
 **Ordered List:**
-Step 1: View Your Changes using `git status`
-Step 2: Stage the Files using `git add filename.txt`
-Step 3: Commit the Changes using `git commit -m 'Your descriptive commit message"`
+1. View Your Changes using `git status`
+2. Stage the Files using `git add filename.txt`
+3. Commit the Changes using `git commit -m 'Your descriptive commit message"`
 ---
 
 # Exercise 5: Table
