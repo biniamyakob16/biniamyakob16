@@ -47,7 +47,7 @@ This sentence includes a **bold word**, an *italic word* and an `inline code` sn
 ```python
 i = 7
 while i <= 5:
-    print("Hello Class!")
+    print("Hello Dan!")
 ```
 ----
 
