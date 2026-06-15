@@ -8,7 +8,7 @@ I'm Biniam Yakob, An Aspiring DevOps Engineer with great interest in Systems Aut
 
 - 🔭 I’m currently working on [Linux CLI Challenges](https://github.com/biniamyakob16/overthewire-bandit-linux-cli-labs), [Linux Virtual Box & KVM](https://github.com/biniamyakob16/linux-virtualbox-kvm-labs)
 - 🌱 I’m currently learning **Docker & Kubernetes**
-- - ⚡ Fun fact **I enjoy designing and automating CI/CD pipelines**
+- ⚡ Fun fact **I enjoy designing and automating CI/CD pipelines**
 
 ## 🛠️ My Skill Set  
 <div align="center">
