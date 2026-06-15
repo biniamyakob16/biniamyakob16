@@ -52,7 +52,7 @@ while i <= 5:
 ----
 
 # Exercise 8: Blockquote
-> Challenge your self to learn.
+> Challenge yourself to learn.
 ---
 
 # Bonus:
