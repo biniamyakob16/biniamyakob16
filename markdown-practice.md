@@ -4,7 +4,9 @@
 ---
 
 # Exercise 2: Text Formatting
-This senetence includes a **bold word**, an *italic word* and an `inline code` snippet.
+This sentence includes a **bold word**, an *italic word* and an `inline code` snippet.
+
+---
 
 
 
