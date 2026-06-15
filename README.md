@@ -7,6 +7,8 @@ I'm Biniam Yakob, An Aspiring DevOps Engineer with great interest in Systems Aut
 <br/>  
 
 - 🔭 I’m currently working on [Linux CLI Challenges](https://github.com/biniamyakob16/overthewire-bandit-linux-cli-labs), [Linux Virtual Box & KVM](https://github.com/biniamyakob16/linux-virtualbox-kvm-labs)
+- 🌱 I’m currently learning **Docker & Kubernetes**
+- - ⚡ Fun fact **I enjoy designing and automating CI/CD pipelines**
 
 ## 🛠️ My Skill Set  
 <div align="center">
@@ -31,6 +33,7 @@ I'm Biniam Yakob, An Aspiring DevOps Engineer with great interest in Systems Aut
 <a href="https://www.docker.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" />
 </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" /></a>  
 <a href="https://cloud.google.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="60" />
